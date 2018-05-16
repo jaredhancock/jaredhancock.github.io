@@ -20,6 +20,7 @@ body, html {
     font-family: "Courier New", Courier, monospace;
     /* Set the font-size to 25 pixels */
     font-size: 25px;
+    opacity: .2;
 }
 
 /* Position text in the top-left corner */
